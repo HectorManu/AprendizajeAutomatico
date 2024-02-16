@@ -1,0 +1,3 @@
+Un innovador sistema de resolución de rutas utiliza el algoritmo de búsqueda A* para encontrar la ruta más eficiente desde tu hogar hasta la escuela. Teniendo en cuenta la distancia y el consumo de combustible, esta solución inteligente minimiza los costos, proporcionando un camino óptimo que optimiza tanto el tiempo de viaje como la eficiencia en el uso de combustible.
+
+Además, al pulsar el botón de administrador, entrarás en un modo especial donde podrás modificar el mapa de nodos. Si eres un cliente, accederás al modo de búsqueda del camino más económico desde tu casa a la escuela, especialmente diseñado para quienes viajan en bicimoto.
